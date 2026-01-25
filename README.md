@@ -152,9 +152,6 @@ Sayandh Raj
 Final Year BCA Student
 Focus Areas: Data Science, Analytics, Data Engineering, Machine Learning
 
-If you want, next I can help you with **viva questions**, **resume points**, or **ML explanation** based strictly on this README.
-
-
 
 ## How to Run the Project
 
